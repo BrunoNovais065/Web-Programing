@@ -1,5 +1,9 @@
 # BOLine
 
+Trabalho realizado com participação de Daniel Teixeira email: 8200378@estg.ipp.pt
+
+Para este projeto funcionar é necessario ter uma base de dados de mongoDB criada e associada ao projeto.
+
 Para executar a aplicação siga os seguintes passos:
 
 1. Ir para a pasta do projeto Backend `cd Backend`
